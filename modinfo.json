@@ -1,0 +1,18 @@
+{
+	"name": "BetterSacrifice",
+	"description": "Allows broken thralls in the sacrifice stone.\n\nI don't even know why Funcom disallowed this.",
+	"changeNote": "Age of War update",
+	"author": "denoflions",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 3,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2948358048",
+	"steamTestLivePublishedFileId": "2948358048",
+	"steamVisibility": 0,
+	"folderName": "BetterSacrifice",
+	"revisionNumber": 509742,
+	"snapshotId": 37609,
+	"fileSize": 272
+}
